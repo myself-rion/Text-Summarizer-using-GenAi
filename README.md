@@ -3,9 +3,9 @@
 
 ## Installation 🔧
 * Make sure to install the generativeai package
-> pip install google.generativeai
+> pip install google-generativeai
 * check package version
-> pip show google.generativeai
+> pip show google-generativeai
 
 ## Key Features:
 <ul>Leverage Google's advanced Generative AI for text summarization.</ul>
